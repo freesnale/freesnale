@@ -1,7 +1,7 @@
 
 ## 👋 *Hi, there! I'm Quarix*
 
-📍 Beijing, China | 🎓 Junior @ BUPT | Electronic Science and Technology  
+ 🎓 Junior @ BUPT | Electronic Science and Technology  
 
 🤖 AI + Hardware Enthusiast | Embodied Intelligence
 
